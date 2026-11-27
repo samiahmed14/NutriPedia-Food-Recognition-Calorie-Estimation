@@ -12,7 +12,7 @@ import "./Footer.css";
 const Footer = () => {
   return (
     <div style={{ width: "100vh", height: "auto" }}>
-      <div className="bodyy"> Design and Built by Nikhat Parveen</div>
+      <div className="bodyy"> Design and Built by Sami Ahmed Mohammed</div>
     </div>
   );
 };
