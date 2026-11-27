@@ -1,6 +1,6 @@
 ## Description
 
-**NutriPedia** is a smart AI-driven platform designed to help users make healthier eating choices by identifying fruits and vegetables from images and providing detailed nutritional information. The system leverages a combination of computer vision and natural language processing to make dietary awareness accessible, engaging, and personalized.
+**NutriPedia** is a food recognition platform designed to help users make healthier eating choices by identifying fruits and vegetables from images and providing detailed nutritional information. The system leverages a combination of computer vision and natural language processing to make dietary awareness accessible, engaging, and personalized.
 
 ##### 🔍 Core Technology
 
@@ -31,4 +31,4 @@ At the heart of NutriPedia is the **Inception-V3** Convolutional Neural Network,
 
 ##### 🎯 Purpose & Impact
 
-NutriPedia meets the increasing demand for health-conscious tools that promote balanced diets. By combining deep learning and conversational AI, it empowers users to understand what they eat, encouraging informed choices and healthier living through a simple photo.
+NutriPedia meets the increasing demand for health-conscious tools that promote balanced diets. By combining deep learning and natural language processing, it empowers users to understand what they eat, encouraging informed choices and healthier living through a simple photo.
